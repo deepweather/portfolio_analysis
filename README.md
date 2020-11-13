@@ -4,8 +4,7 @@ Pick your stocks, pick # of simulations and get results.
 
 Portfolio analysis application, that finds portfolio allocation with best return, lowest volatility and highest sharpe ratio by applying a predefined number of montecarlosimulations to the portfolio.
 
-![Image1](./assets/image1.png)
-![Image2](./assets/image2.png)
+![Image1](./assets/example.gif)
 
 ## Deployment:
 1. Clone repo
